@@ -1,1 +1,1 @@
-FancySpawneggs
+# Fancy Spawn Eggs [![](http://cf.way2muchnoise.eu/fancy-spawn-eggs.svg)](https://minecraft.curseforge.com/projects/fancy-spawn-eggs) [![](http://cf.way2muchnoise.eu/versions/fancy-spawn-eggs.svg)](https://minecraft.curseforge.com/projects/fancy-spawn-eggs)
