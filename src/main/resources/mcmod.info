@@ -1,0 +1,15 @@
+[
+{
+  "modid": "fancyspawneggs",
+  "name": "Fancy Spawn Eggs",
+  "description": "Fancy Spawn Eggs shows a visual representation of the mob that will be spawned",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "updateUrl": "",
+  "authorList": ["Tschipp"],
+  "credits": "Tschipp",
+  "logoFile": "assets/fancyspawneggs/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
